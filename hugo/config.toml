@@ -1,12 +1,11 @@
 baseURL = "https://mansur.moscow/"
 languageCode = "en-us"
-title = "Mansur's Home for Experiments"
+title = "Mansur's Home for Projects and Experiments"
 theme = "hestia-pure"
 
 [author]
  author = 'Mansur Marvanov'
  profile = ' '
- image = 'image/theme/profile.jpg'
 
 [Params]
  localOgp = 'en'
