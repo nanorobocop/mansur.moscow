@@ -1,0 +1,18 @@
+baseURL = "https://mansur.moscow/"
+languageCode = "en-us"
+title = "Mansur's Home for Experiments"
+theme = "hestia-pure"
+
+[author]
+ author = 'Mansur Marvanov'
+ profile = ' '
+ image = 'image/theme/profile.jpg'
+
+[Params]
+ localOgp = 'en'
+ description = " "
+ twitter = "nanorobocop"
+ github = "nanorobocop"
+ linkedin = "https://www.linkedin.com/in/mansur-marvanov/"
+
+
