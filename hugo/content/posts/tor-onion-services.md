@@ -15,6 +15,7 @@ But just to keep in touch with it and to be presented in the Dark Web (he-he:)),
 It points to the same original site, just with hidden .onion domain. 
 
 Some implementation details:
+
 * The name is generated using [Shallot](https://github.com/katmagic/Shallot) tool. It took around half hour to get it with 'mansur' prefix.
 * Tor daemon works in its own Docker container in HiddenService-only mode. 
 
