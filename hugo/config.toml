@@ -8,6 +8,7 @@ theme = "hestia-pure"
  profile = ' '
 
 [Params]
+ image = "images/og.png"
  localOgp = 'en'
  description = " "
  twitter = "nanorobocop"
