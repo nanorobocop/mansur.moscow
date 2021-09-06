@@ -1,11 +1,11 @@
 ---
 title: "Physical Security Devices"
-date: 2021-07-30T22:19:15+09:00
+date: 2021-09-06T22:19:15+09:00
 draft: false
-image: images/token.jpg
+image: images/dicekeys.jpg
 ---
 
-![logo](/images/token.jpg)
+![logo](/images/dicekeys.jpg)
 
 Years ago, before computer era, when trying to protect information in secret,
 it was necessary to use some physical devices.
